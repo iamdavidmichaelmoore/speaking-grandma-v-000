@@ -18,6 +18,6 @@ def speak_to_grandma(phrase)
 	elsif phrase == 'Hi Nana, how are you?' || phrase == 'Hi!'
 		'Huh?! Speak up, sonny!'.upcase
 	elsif phrase == 'What did you eat today?'.upcase || phrase == 'What?'.upcase
-		'No, not sincee 1938!'.upcase
+		'No, not  1938!'.upcase
 	end
 end
